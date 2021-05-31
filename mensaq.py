@@ -5,7 +5,7 @@
 
 """
 
-Description: Coding challenge to take an actual Mensa question and convert it into a python number question/game. Along with providing some funny mistake responses and similar IQ results triggered by  n/number of guesses. 
+Description: Coding challenge to take an actual Mensa question and convert it into a python number question/game. Along with providing some funny mistake responses and similar IQ results triggered by  n/number of guesses. **Next feature might include incremental question raising the complexity to a new level.**
 
 Design: MensaQ has been written with Python3 and with OOP in mind providing a single file/location to control the game variables. Future changes might include file names and variable updates to be more Pythonic. 
 """
